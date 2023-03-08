@@ -1,4 +1,4 @@
-# Hello-Python-Qiskit
-Hello World Quantum
+# Hello-Quantum-IBM-Qiskit
+Hello World IBM Quantum
 
 pip install qiskit
